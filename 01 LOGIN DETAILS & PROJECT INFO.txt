@@ -1,6 +1,6 @@
 **Database Name: librarygh**
 
-**Developed by akash kumar patel**
+**Developed by akash kumar patel **
 
 **Recommended PHP Version 5.6.3**
 
